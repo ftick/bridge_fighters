@@ -1,9 +1,14 @@
 '''
-Created on May 4-10, 2014
+Created on:   05/04/2014
+Last edited:  02/05/2015
 
 @authors: Ian and Basil
 
 Thanks to cvsnb from deviantart for the original sprites
+
+TODO:
+    [ ] Finish documentation
+    [ ] Update variable names
 '''
 
 import pygame, sys
