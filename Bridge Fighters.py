@@ -4,7 +4,8 @@ Last edited:  02/05/2015
 
 @authors: Ian and Basil
 
-Thanks to cvsnb from deviantart for the original sprites
+Thanks to "cvsnb", or Craig Hargove for Asuka and Jin sprites
+Link: http://cvsnb.deviantart.com/
 
 TODO:
     [ ] Finish documentation
