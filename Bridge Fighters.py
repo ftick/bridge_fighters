@@ -546,7 +546,7 @@ def play():
         screen.blit(board,boardBox)
         screen.blit(board2,board2Box)
         
-        # Try to move Characters
+        # Handle movement requests
         
         keys = pygame.key.get_pressed()
         
@@ -614,7 +614,7 @@ def play():
             if player2.bottom < 700:
                 move2Down = True
         
-        # Move Characters
+        # Move Characters according to requests made
         
         if p1 > 0:
             if moveDown and player.bottom < 700:
