@@ -2,7 +2,7 @@
 Created on:   05/04/2014
 Last edited:  02/05/2015
 
-@authors: Ian and Basil
+@authors: Toph and Basil
 
 Thanks to "cvsnb", or Craig Hargove for Asuka and Jin sprites
 Link: http://cvsnb.deviantart.com/
